@@ -13,4 +13,4 @@ I'm a Master's student in Software Engineering with interests in ML, DevOps, and
 - JavaScript
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=latioms&show_icons=true&theme=dark)
