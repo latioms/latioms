@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a Master's student in Software Engineering with interests in ML, DevOps, and Security. My preferred languages are Python and JavaScript, and I'm working towards becoming a DevOps or MLOps engineer.
+I'm latioms, a Master's student in Software Engineering with interests in ML, DevOps, and Security. My preferred languages are Python and JavaScript, and I'm working towards becoming a DevOps or MLOps engineer.
 
 ## Skills
 - Software Engineering
@@ -9,8 +9,16 @@ I'm a Master's student in Software Engineering with interests in ML, DevOps, and
 - Security
 
 ## Language Proficiency
-- Python
-- JavaScript
+- Python 🐍
+- JavaScript U_U
 
-## GitHub Stats
+## GitHub Stats ➗
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=latioms&show_icons=true&theme=dark)
+
+## Hobbies 🎨🎬📚🤣🏀
+
+- 🎌 Animes
+- 🍿 Cinema
+- 📖 Lecture
+- 🤣 Comedies
+- 🏀 Basket
