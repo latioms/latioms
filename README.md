@@ -5,7 +5,7 @@ I'm latioms 😊, a Master's student in Software Engineering with interests in M
 ## Skills
 MLOps
 - Software Engineering
-- Machine Learning
+- Data Analysis
 - DevOps
 
 ## Language Proficiency
