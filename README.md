@@ -7,6 +7,7 @@ MLOps
 - Software Engineering
 - Data Analysis
 - DevOps
+Automation And Marketing tools expert
 
 ## Language Proficiency
 - Python 🐍
